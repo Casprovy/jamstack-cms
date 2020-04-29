@@ -1,5 +1,5 @@
 {
-    "bucketName": "jamstack-cms",
+    "bucketName": "jamstack-cms-1b1f98ea-df77-4d99-9649-1d4f451050db",
     "authPolicyName": "s3_amplify_94cd3bd2",
     "unauthPolicyName": "s3_amplify_94cd3bd2",
     "authRoleName": {
